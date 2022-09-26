@@ -459,6 +459,7 @@ while True:
                                 print("")
                                 print("i didnt understand that ")
                                 print("")
+                                time.sleep(1)
 
                         elif Circle_Mode == "radius":
                             r = float(input("Enter the Radius of the circle (just the number, no cm or mm): "))

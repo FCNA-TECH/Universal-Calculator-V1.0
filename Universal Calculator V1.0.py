@@ -537,6 +537,7 @@ while True:
                     break  
                 else:
                     print("I cannot calculate that just yet however i may be able to in future updates")
+                    time.sleep(1)
 
         break #this is here if the user wanted to exit the program in the block of code above, when they are using the actual calculations bit        
                 

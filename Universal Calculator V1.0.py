@@ -524,6 +524,7 @@ while True:
                             print("")
                             print("i didnt understand that ")
                             print("")
+                            time.sleep(1)
                         
 
                 elif actual_calculation == "exit":

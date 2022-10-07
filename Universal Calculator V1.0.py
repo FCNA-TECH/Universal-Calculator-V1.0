@@ -424,6 +424,7 @@ while True:
 
                         else:
                             print("i cannot currently do that")
+                            time.sleep(1)
 
 
 

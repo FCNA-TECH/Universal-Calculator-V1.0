@@ -327,6 +327,7 @@ while True:
                         time.sleep(2)   
                 else:
                     print("I cannot calculate that just yet however i may be able to in future updates")
+                    time.sleep(1)
 
             else:
                 break
